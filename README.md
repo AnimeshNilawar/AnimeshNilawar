@@ -20,8 +20,8 @@ I'm actively working on several Android projects to apply and solidify my newfou
 
 ## 📫 How to Reach Me
 
-- **Email:** dialiax1@gmail.com
-- **LinkedIn:** [Animesh Nilawar](https://in.linkedin.com/in/animesh-nilawar-84908628b)
+- **Email:** nilawaranimesh@gmail.com
+- **LinkedIn:** [Animesh Nilawar](https://in.linkedin.com/in/animesh-nilawar)
 
 Feel free to connect with me if you have any tips, suggestions, or if you're interested in collaborating on exciting Android projects. I'm open to feedback and always looking to expand my network within the Android development community.
 
