@@ -9,6 +9,7 @@ I'm a passionate **backend and Android developer** who loves building scalable a
 - 📱 **Android Development:** Building cross-platform and native apps using **Flutter**.
 - ☁️ **Cloud & DevOps:** Deploying apps on **GCP, Firebase, and AWS**.
 - 🗄 **Databases:** Proficient in **MySQL, MongoDB, and NoSQL databases**.
+- 🐳 **Containerization & Orchestration:** Working with **Docker & Kubernetes** for scalable deployments.
 
 ## 🛠 Tech Stack:
 - **Languages:** Golang, JavaScript, C++, Python, Dart
