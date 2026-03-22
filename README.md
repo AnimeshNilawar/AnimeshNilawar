@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Animesh Nilawar
 
-I'm a passionate **Backend & Android Developer** who loves building **scalable, secure, and efficient systems**. Whether it's writing backend services in **Go**, developing cross-platform mobile apps in **Flutter**, or deploying robust cloud infrastructure — I love solving real-world problems through clean and modular code.
+I'm a passionate **Backend & Android Developer** who loves building **scalable, secure, and efficient systems**. Whether it's writing backend services in **Go** & **SpringBoot**, developing cross-platform mobile apps in **Flutter**, or deploying robust cloud infrastructure I love solving real-world problems through clean and modular code.
 
 ---
 
@@ -9,7 +9,7 @@ I'm a passionate **Backend & Android Developer** who loves building **scalable, 
 - 🔧 **Backend Development** – APIs, microservices, performance optimization, and system architecture.
 - 📱 **Android Development** – Native and cross-platform apps using **Flutter**.
 - ☁️ **Cloud & DevOps** – CI/CD pipelines, server deployments, and monitoring on **GCP, Firebase, and AWS**.
-- 🗄 **Databases** – Schema design, query optimization using **MySQL, MongoDB, and NoSQL**.
+- 🗄 **Databases** – Schema design, query optimization using **MySQL,PostgreSQL, MongoDB, and NoSQL**.
 - 🐳 **Containerization & Orchestration** – Dockerizing applications, managing clusters with **Kubernetes**.
 
 ---
