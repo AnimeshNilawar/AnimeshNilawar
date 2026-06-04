@@ -54,12 +54,17 @@ I'm a passionate **Backend & Android Developer** who loves building **scalable, 
 
 ---
 
-## 📂 Projects in Progress
+## 🚀 Featured Startup
 
-I'm actively working on several **Android & Backend projects** to strengthen my technical foundation and explore new areas like media streaming, real-time systems, and scalable cloud architectures.
+### 🌟 Micuppa
+Building a platform that helps people discover communities, events, cafés, and experiences around them.
 
-🔗 Check out my repositories to follow my journey: [GitHub Repos »](https://github.com/AnimeshNilawar?tab=repositories)
+🔹 Community Discovery  
+🔹 Event Management  
+🔹 Local Experience Exploration  
+🔹 Cloud-Native Architecture  
 
+> Currently in active development 🚀
 ---
 
 ## 📫 Let’s Connect!
